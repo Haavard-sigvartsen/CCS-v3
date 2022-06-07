@@ -17,7 +17,7 @@ As per today (07.06.2022) i haven't been working on it, as it mostly complete to
 - Why not use already existing apps like MyFitnessPal?
   - I tried it in the past (6 years ago), and i really didnt like it, the app was already target towards North Americans, which used Footballfields per Washing, which is a pain to messure stuff with when we use Metrics (kinda of a joke), there was too many items, none which were in Norway, making them a waste of space (in my situation).
 - Was this made with the expectation for it to be made public?
-  - Yes and no, i know for sure if it make a joke everywhere and want to change it within a year of not touching it, i wouldn't understand shit. But if others feel like they could benifit using this software, then sure.
+  - Yes and no, i know for sure if it made a joke everywhere in the code and want to change it within a year of not touching it, i wouldn't understand anything. But if others feel like they could benifit using this software, then sure.
 - Do you take suggestions that may not be usefull for you, but for me?
   - Sure, if its relevant and not too complicated, like solving world hunger.
 - Do you plan to make any other front ends, such as web or mobile app?
