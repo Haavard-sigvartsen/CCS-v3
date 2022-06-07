@@ -1,3 +1,0 @@
-﻿Module LiberlyFunctions
-
-End Module
