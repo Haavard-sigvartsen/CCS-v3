@@ -1,6 +1,5 @@
 # CCS-v3
-or Calorie Counter Simpler
-As per today (07.06.2022) i haven't been working on it, as it mostly complete to a level i'm satisfied with, i may complet it all the sudden, depending on my motivation
+or Calorie Counter Simpler version 3
 
 This is a project that is a direct upgrade from my old Execl sheet that i called CCS v1 and v2. which ran fine.
 But i was inspired by a colleague at work to write my own program, i wrote it in VB.net specifically we mentioned it alot during an incident... least its very similar to C#, which im considering to write it in... One Day... so i can write that on my CV too.
@@ -12,6 +11,7 @@ See https://thefitness.wiki/weight-loss-101/ for more about calories and stuff
 
 The UI is made on the fly, i am not a designer, but i do try to keep things where it make sense, like the Delete button should not be close to the submit button, keeping things simple with proper names, have the importent and often used objects on the correct side with the relevant details, and more details thats usually not looked at somewhere else.
 
+As per today (07.06.2022) i haven't been working on it, as it mostly complete to a level i'm satisfied with, i may work on it all the sudden, depending on my motivation
 
 # FAQ
 - Why not use already existing apps like MyFitnessPal?
