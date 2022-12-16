@@ -1,5 +1,7 @@
 # CCS-v3
 or Calorie Counter Simpler version 3
+![image](https://user-images.githubusercontent.com/6866104/208196851-528fecf3-c6f4-4348-a7f4-38fdeacfd785.png)
+
 
 This is a project that is a direct upgrade from my old Execl sheet that i called CCS v1 and v2. which ran fine.
 But i was inspired by a colleague at work to write my own program, i wrote it in VB.net specifically we mentioned it alot during an incident... least its very similar to C#, which im considering to write it in... One Day... so i can write that on my CV too.
